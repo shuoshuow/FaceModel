@@ -1,0 +1,97 @@
+_ReSharper*
+[Bb]in/
+obj/
+objd/
+out/
+tmp/
+packages/
+x64/
+App_Data
+*.user
+*.sln.cache
+*.userosscache
+*.suo
+TestResults
+[Tt]humbs.db
+buildd.rec
+buildd.log
+buildd.evt
+buildd.dbb
+buildd.prf
+buildd.trc*
+buildd.err
+buildd.wrn
+build.log
+build.evt
+build.prf
+build.dbb
+build.trc*
+build.err
+build.wrn
+*.log
+*.bak
+OACRTemp/
+build_logs/
+lock
+/public/inc/bldver.*
+/public/inc/sources.ver
+*.projhash*
+*.slnhash*
+# quickbuild.exe
+/target/distrib/*
+/VersionGeneratingLogs/
+/VersionGeneration/
+QLogs
+QLocal
+QTestLogs
+pingme.txt
+project.lock.json
+upgradelog*.htm
+*.VC.db
+*.VC.opendb
+test.txt
+
+# silverlight
+ClientBin/
+
+# azure
+*.build.csdef
+csx/
+/version
+/__cbcOutput/debug/amd64/private
+ecf/
+
+# StyleCop
+StyleCop.Cache
+
+# Team-Specific
+*.sdf
+*.opensdf
+
+# Visual Studio 2015 cache/options directory
+.vs/
+
+# App output packages
+AppPackages/
+BundleArtifacts/
+
+ImageRecoService/LibNNSearchManagedWrapper/
+data/
+target/
+
+*.VC.opendb
+*.VC.db
+ipch/
+ecf/
+Debug/
+Release/
+
+.bash_history
+#ignore envkeep.txt
+build/envkeep.txt
+
+# model file and wrapper
+FaceSDK/
+FaceModel/Models/
+FaceModel/bin/
+FaceModel/obj/
